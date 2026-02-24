@@ -30,7 +30,7 @@ The fused features are classified using a Multi-Layer Perceptron (MLP).
 - Google Colab / Jupyter Notebook
 
 ## 👨‍💻 Contributor
-- **Prateek Chowdhary** – MLP implementation, training, evaluation
+- ** Pothuri Indraneel ** – MLP implementation, training, evaluation
 
 ## 🚀 Future Work
 - End-to-end multimodal transformers
